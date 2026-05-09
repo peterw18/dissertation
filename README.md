@@ -34,4 +34,5 @@ python .\dynamic.py
 ---
 
 Please open a GitHub issue for any bugs / feature requests etc.
+
 © Peter Walker
