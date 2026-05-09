@@ -1,0 +1,15 @@
+logging
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+river
+hyperopt
+python-evtx
+lxml
+sentence_transformers
+joblib
+wmi
+pywin32
+windows-toasts
